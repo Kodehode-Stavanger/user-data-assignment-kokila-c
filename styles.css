@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: collapse; /* to keep border simple single line*/
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #535252;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f1f1bb;
+}
